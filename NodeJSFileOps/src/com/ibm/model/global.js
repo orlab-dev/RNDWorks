@@ -6,6 +6,7 @@
  * This File shows how we can use getter-setters in NodeJS
  */
 
+//Just a CI Testing
 var global = {
 	__filePath : '',
 	__fileBuffer : '',
