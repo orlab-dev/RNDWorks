@@ -1,0 +1,35 @@
+{
+  "name": "NodeJSFileOps",
+  "version": "0.1.0",
+  "description": "NodeJSFileOps",
+  "main": "entry-point.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "dependencies": {
+    "cfenv": "^1.0.3",
+    "express": "^4.14.0",
+    "express-cli": "0.0.1",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-jshint": "^0.7.2",
+    "grunt-contrib-less": "^1.3.0",
+    "grunt-contrib-qunit": "^0.5.2",
+    "grunt-contrib-uglify": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "jade": "^1.11.0",
+    "socket.io": "^1.4.8",
+    "pdf2json":"^1.1.0"
+  },
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "Santanu Mitra",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
